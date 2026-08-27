@@ -8,7 +8,7 @@ Install and run [MySQL](https://downloads.mysql.com/archives/community/).
 
 Download and import the [Sakila database](https://dev.mysql.com/doc/index-other.html).
 
-Install[UV](https://docs.astral.sh/uv/getting-started/installation/).
+Install [UV](https://docs.astral.sh/uv/getting-started/installation/).
 
 ## Quickstart
 
